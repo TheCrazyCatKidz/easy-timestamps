@@ -3,6 +3,7 @@
 
 ## How to use:
 `timer()`
+
     Code example
 
 ## All functions
