@@ -1,2 +1,2 @@
-# easy-timestamps
-The easy way to generate a timer, current date, or future date for your Discord Bots.
+# Easy Timestamps
+<center>![https://img.shields.io/badge/made%20with-nerd%20sweat-lightgrey]</centre>
